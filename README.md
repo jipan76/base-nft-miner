@@ -1,4 +1,4 @@
-# Shardeum NFT Minter Dapp Example
+# BASE NFT Minter Dapp Example
 
 This is an example of a NFT minter dapp on Shardeum.
 
@@ -19,29 +19,7 @@ This is an example of a NFT minter dapp on Shardeum.
 - Mint on Shardeum Testnet
 - Intuitive UI statuses for minting
 
-## How to run
+Contact me:
+Twitter @DitYa_eth
 
-1. Clone the repo
-
-``` 
-git clone https://github.com/skundu42/nft-minter-dapp.git 
-```
-
-2. Install dependencies
-
-``` 
-npm install 
-```
-3. Rename .env.example file to .env and add the values
-
-``` 
-YOUR_PINATA_API_KEY=
-YOUR_PINATA_API_SECRET=
-privatekey= 
-```
-4. Run the app
-
-``` 
-npm start
-```
-Feel free to clone and modify the code as you wish. If you wish to contribute, please open a PR. 
+Made with love to Base from Indonesia
