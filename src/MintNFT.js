@@ -100,7 +100,7 @@ function MintNFT() {
                 Wallet Address: {walletAddress}
               </Typography>
               <Typography align="center">
-                Wallet Balance: {walletBalance} SHM
+                Wallet Balance: {walletBalance} ETH
               </Typography>
             </Box>
           )}
