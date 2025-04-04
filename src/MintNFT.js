@@ -77,7 +77,7 @@ function MintNFT() {
     <Container maxWidth="lg">
       <Box sx={{ mt: 4, mb: 2 }}>
         <Typography variant="h4" align="center" gutterBottom>
-          BASE NFT Minter
+          EsTea Minter
         </Typography>
       </Box>
       <Grid container spacing={2}>
@@ -91,7 +91,7 @@ function MintNFT() {
                 size="small"
                 disabled={walletAddress} 
               >
-                {walletAddress ? "Wallet Connected" : "Connect Wallet to BASE Mainnet"}
+                {walletAddress ? "Wallet Connected" : "Connect Wallet to Tea Sepolia Testnet"}
               </Button>
             </Box>
           {walletAddress && (
@@ -219,7 +219,7 @@ function MintNFT() {
           transactionHistory.map((hash, index) => (
             <Box key={index} mt={1} textAlign="left">
               <Link
-                href={`https://basescan.org/tx/${hash}`}
+                href={`https://sepolia.tea.xyz/tx/${hash}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
