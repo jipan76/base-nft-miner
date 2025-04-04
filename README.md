@@ -1,6 +1,6 @@
-# BASE NFT Minter Dapp Example
+# EsTea Minter Dapp
 
-This is an example of a NFT minter dapp on Shardeum.
+This is an example of a NFT minter dapp on Tea.
 
 ## Tech Stack Used
 
@@ -22,4 +22,4 @@ This is an example of a NFT minter dapp on Shardeum.
 Contact me:
 Twitter @DitYa_eth
 
-Made with love to Base from Indonesia
+Made with love to Tea from Indonesia
