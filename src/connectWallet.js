@@ -6,7 +6,7 @@ export async function connectWallet() {
   const provider = new ethers.providers.Web3Provider(window.ethereum);
   const signer = provider.getSigner();
   // Insert deployed contract link here
-  const contract = new ethers.Contract(`0xF33d5A48098847beec0B7E349f759cb2121e3CD8`, NFTMinter.abi, signer);
+  const contract = new ethers.Contract(`0xB47346a8D0d81e5f4Be5cEe9d5Bc4920923e1cD2`, NFTMinter.abi, signer);
   
   return { signer, contract };
   }
