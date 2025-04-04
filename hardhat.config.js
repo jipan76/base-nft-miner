@@ -6,10 +6,10 @@ module.exports = {
   networks: {
     hardhat: {
     },
-    base: {
-      url: "hhttps://developer-access-mainnet.base.org",
-      chainId: 8453,
-      accounts:[``]
+    tea: {
+      url: "https://tea-sepolia.g.alchemy.com/public",
+      chainId: 10218,
+      accounts:['#']
     }
   },
   solidity: "0.8.3",
