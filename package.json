@@ -1,7 +1,6 @@
 {
-  "name": "nft-minter-dapp",
-  "version": "0.1.0",
-  "private": true,
+  "name": "secangkirteh",
+  "version": "1.1.5",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -46,5 +45,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This is an example of a NFT minter dapp on Shardeum.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.19",
+    "mocha": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jipan76/secangkirteh"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jipan76/secangkirteh/issues"
+  },
+  "homepage": "https://github.com/jipan76/secangkirteh#readme"
 }
